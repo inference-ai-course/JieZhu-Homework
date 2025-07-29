@@ -38,3 +38,7 @@
 ### AdvancedTask(Gradio+Langchain+Ollama)
 
 ![](class1/AdvancedTask(Gradio+Langchain+Ollama).PNG)
+
+### Lecture Execises
+
+[View the notebook](class1/class_1_lecture(execises).ipynb)
