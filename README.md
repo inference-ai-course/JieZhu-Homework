@@ -39,6 +39,9 @@
 
 ![](class1/AdvancedTask(Gradio+Langchain+Ollama).PNG)
 
+### MCP Weather Server
+![](class1/MCP-Weather-Server.PNG)
+
 ### Lecture Execises
 
 [View the notebook](class1/class_1_lecture(execises).ipynb)
