@@ -20,7 +20,7 @@
 [View the code](Task3-AutomaticSpeechRecognition.py)
 
 
-### Task4-Data Cleaning And Deduplication
+### Task4-Data Cleaning, Deduplication and Markdown
 
 ![](task4.PNG)
 [View the code](Task4-DataCleaningAndDeduplication.py)
