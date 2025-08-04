@@ -4,5 +4,23 @@
 
 ### Task1-Web Scraping And HTML Cleaning
 
-![](Task1.PNG)
+![](task1.PNG)
 [View the code](Task1-WebScrapingAndHTMLCleaning.py)
+
+
+### Task2-PDF to Text OCR
+
+![](task2.PNG)
+[View the code](Task2-PDFtoTextOCR.py)
+
+
+### Task3-AutomaticSpeechRecognition
+
+![](task3.PNG)
+[View the code](Task3-AutomaticSpeechRecognition.py)
+
+
+### Task4-Data Cleaning And Deduplication
+
+![](task3.PNG)
+[View the code](Task4-DataCleaningAndDeduplication.py)
