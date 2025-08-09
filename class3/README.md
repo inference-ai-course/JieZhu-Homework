@@ -25,7 +25,7 @@ This project demonstrates a simple **speech → text → LLM → speech** pipeli
    - Appends conversation to `historyConversation.txt`  
    - Saves audio files as `prompt-<timestamp>.wav` and `Response-<timestamp>.wav`
 
----
+--------------------------------------------------------------------------------------------------------------------
 
 ## FastAPI Version
 
@@ -41,14 +41,11 @@ This project demonstrates a simple **speech → text → LLM → speech** pipeli
 - `Response-YYYY-MM-DD-HH-MM-SS.wav` — synthesized assistant reply  
 - `historyConversation.txt` — appended text log of prompts and responses
 
+
+--------------------------------------------------------------------------------------------------------------------
 ## Gradio Interface Version
-# Voice Assistant — Gradio Version
 
-This is a browser-based voice assistant built with **Gradio**, **Whisper ASR**, **TinyLlama LLM**, and **gTTS**.
-
----
-
-## How It Works
+### How It Works
 
 1. **Record your voice** in the browser using Gradio’s `Audio` component.  
 2. **ASR (Automatic Speech Recognition)** — Converts speech to text using  
