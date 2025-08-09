@@ -1,8 +1,7 @@
 ## Voice Assistant Project
 
-<video src="FirstProject-VoiceAssistant.mp4" width="600" controls>
-  Introduction Two versions of the Voice Assistant Project
-</video>
+### Introduction Two versions of the Voice Assistant Project
+[Click here to watch the video](FirstProject-VoiceAssistant.mp4)
 
 ### FastAPI version
 ![My Photo](screenshots/FastAPI.PNG)
